@@ -1,4 +1,4 @@
-import styles from './BoardingPass.module.css';
+import styles from '../style/BoardingPass.module.css';
 
 export default function BoardingPass() {
   return (
